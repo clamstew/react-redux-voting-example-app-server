@@ -1,7 +1,7 @@
 {
   "name": "full-stack-redux-tutorial",
   "version": "1.0.0",
-  "description": "Using this tutorial to build a full-stack redux based app - also uses react",
+  "description": "Using this tutorial to build a full-stack redux based app - also uses react;my practice coding of this tutorial - https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html - changed or updated anything that threw an error since the tutorial was written",
   "main": "index.js",
   "scripts": {
     "start": "babel-node index.js",
